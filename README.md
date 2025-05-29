@@ -17,7 +17,8 @@
 
 ## 🌐 서비스 접속 주소
 
-👉 [https://mangodetective.github.io/duksung-fortune](https://mangodetective.github.io/duksung-fortune)
+👉 [https://mangodetective.github.io/fortune/]
+(https://mangodetective.github.io/fortune/)
 
 ---
 
